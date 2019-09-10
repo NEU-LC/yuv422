@@ -1,0 +1,3 @@
+/home/luchao/Desktop/yuv/build/CMakeFiles/rebuild_cache.dir
+/home/luchao/Desktop/yuv/build/CMakeFiles/edit_cache.dir
+/home/luchao/Desktop/yuv/build/CMakeFiles/capture.dir
